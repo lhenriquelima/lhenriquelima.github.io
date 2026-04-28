@@ -1,0 +1,33 @@
+project:
+  type: website
+
+website:
+  title: "Luis Henrique de Lima"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - research.qmd
+      - publications.qmd
+
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - section: "Menu"
+        contents:
+          - index.qmd
+          - about.qmd
+          - research.qmd
+          - publications.qmd
+ 
+  page-footer:
+    left: "© 2026 Luis Henrique de Lima | UTFPR"
+    right: |
+      Built with <a href="https://quarto.org" target="_blank">Quarto</a>
+
+format:
+  html:
+    theme: cosmo
+    toc: true

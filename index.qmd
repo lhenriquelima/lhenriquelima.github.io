@@ -1,0 +1,39 @@
+---
+title: "Home"
+image: images/profile.jpg
+about:
+  template: trestles
+  image: images/profile.jpg
+  image-width: 180px
+  links:
+    - text: "<img src='images/lattes.jpeg' width='16'> Lattes"
+      href: http://lattes.cnpq.br/7482419947297746
+    - icon: google
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=7SsaizIAAAAJ&hl=en
+    - text: "<img src='images/orcid.png' width='16'> ORCID"
+      href: https://orcid.org/0000-0001-8432-2637
+    - icon: github
+      text: GitHub
+      href: https://github.com/lhenriquelima
+---
+
+## Luis Henrique de Lima
+
+Adjunct Professor  
+Federal University of Technology – Paraná (UTFPR)  
+Ponta Grossa-PR, Brazil
+
+---
+
+### Research Interests
+
+Surface science, two-dimensional materials, STM/STS, XPS/XPD/ARPES, DFT, and machine learning applied to surface analysis.
+
+---
+
+### Research Overview
+
+My research focuses on the relationship between atomic structure and electronic/magnetic properties of surfaces, particularly in low-dimensional systems.
+
+I combine experimental techniques with first-principles simulations to investigate supported nanostructures and two-dimensional materials.

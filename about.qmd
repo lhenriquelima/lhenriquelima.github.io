@@ -1,0 +1,23 @@
+---
+title: "About"
+---
+
+## Biography
+
+Luis Henrique de Lima received his B.Sc. (2009) and Ph.D. (2014) in Physics from the State University of Campinas (Unicamp), Brazil.
+
+During his Ph.D., he was a visiting researcher at the University of Zurich, Switzerland (2013).
+
+He carried out postdoctoral research at the Institute of Physics of Unicamp (2015, 2017) and at the PEARL beamline of the Swiss Light Source (SLS), Switzerland (2016).
+
+From 2018 to 2025, he was an Adjunct Professor at the Federal University of ABC (UFABC), Santo André-SP, Brazil.
+
+Since 2025, he has been an Adjunct Professor at the Federal University of Technology – Paraná (UTFPR), Ponta Grossa-PR, Brazil.
+
+---
+
+## Research Areas
+
+- Condensed Matter Physics
+- Surface Science
+- Two-dimensional Materials

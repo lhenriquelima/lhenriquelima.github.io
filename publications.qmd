@@ -1,0 +1,11 @@
+---
+title: "Publications"
+bibliography: refs.bib
+nocite: '@*'
+bibliography-order: descending
+---
+
+## Publications
+
+::: {#refs}
+:::
